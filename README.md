@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! 👋
 
 <!--
 **IagoAroldo/IagoAroldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/IagoAroldo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoAroldo&langs_count=5&layout=compact&show_icons=true&theme=radical"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoAroldo&langs_count=5&layout=compact&show_icons=true&theme=radical"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IagoAroldo&show_icons=true&theme=radical"/>
  </div>
  <div style="display: inline_block"><br>
