@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/IagoAroldo">
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoAroldo"/> -->
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IagoAroldo&langs_count=8)](https://github.com/IagoAroldo/github-readme-stats)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoAroldo&langs_count=8"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IagoAroldo&show_icons=true&theme=radical"/>
  </div>
  <div style="display: inline_block"><br>
